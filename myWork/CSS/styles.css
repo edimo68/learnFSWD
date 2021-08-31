@@ -1,0 +1,30 @@
+body{
+background-color:red;
+color:blue;
+font:normal 16px Arial, Helvetica, sans-serif;
+line-height:1.6em;
+}
+
+.container{
+  width:80%;
+  margin:auto;
+}
+
+.box-1{
+background-color:yellow;
+color:green;
+border:5px blue solid;
+}
+
+.box-1 h1{
+  font-family: fantasy;
+}
+
+.links {
+  background-color:brown;
+  color:indigo;
+  border:5px purple solid;
+}
+.links li{
+list-style-image:url('./images/cloud.png');
+}
